@@ -52,8 +52,11 @@ Y = data after current push
 **Change the following block only**
 
 Number of easy questions solved: 0 5
+
 Number of medium questions solved: 0 6
+
 Number of hard questions solved: 0 0
+
 Number of total questions solved: 0 11
 
 Change X and Y only according to your progress.**
