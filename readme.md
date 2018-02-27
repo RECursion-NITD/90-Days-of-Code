@@ -1,4 +1,4 @@
-# 90 Days of Code Challange
+# 90 Days of Code Challenge
 
 This challenge is currently meant for the students of ```NIT Durgapur```. Commit yourself to our 90 days of code challenge and contribute to the improvement of the coding culture of our college.
 
@@ -16,7 +16,7 @@ First ranklist with username and score will be updated here on 10th March 2018.
 
 If you’ve decided to join, following are the steps you need to go through:
 
-1. From today onwards, for the next 90 days, you are going to commit to our 90 days of coding challange.
+1. From today onwards, for the next 90 days, you are going to commit to our 90 days of coding challenge.
 2. You are expected to code each and every day and solve as many problems as you can.
 3. You should solve problems on your own. Try for at least 4-5 hours, then you may seek help.
 4. Solutions of almost all problems are available online. In case of further doubts, visit [AskREC](http://recursionnitd.in/askrec).
