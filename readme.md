@@ -87,7 +87,7 @@ To mark the checkbox, change [ ] to [x].
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
 9. [DONE] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
-11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
+11. [DONE] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
 13. [DONE] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
 14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
