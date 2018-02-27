@@ -57,7 +57,7 @@ Number of medium questions solved: 0 6
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 0 13
+Number of total questions solved: 0 15
 
 Change X and Y only according to your progress.**
 
