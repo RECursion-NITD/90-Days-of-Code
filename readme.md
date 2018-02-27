@@ -183,7 +183,7 @@ To mark the checkbox, change [ ] to [x].
 45. [ ] [http://www.spoj.com/problems/SBANK/](http://www.spoj.com/problems/SBANK/)
 46. [ ] [https://goo.gl/FxvqiP](https://goo.gl/FxvqiP)
 47. [ ] [https://goo.gl/s1gkhH](https://goo.gl/s1gkhH)
-48. [X] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
+48. [ ] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
 51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
