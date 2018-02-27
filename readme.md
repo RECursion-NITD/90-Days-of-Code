@@ -33,6 +33,8 @@ If you’ve decided to join, following are the steps you need to go through:
 5. push it to your forked repo.
 6. Send a merge request
 
+Do steps 1 to 3 once and then steps 4 to 6 daily to update the changes.
+
 ## Prerequisites
 
 - Basic git knowledge. You can learn it from [here](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
