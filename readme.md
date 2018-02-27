@@ -221,9 +221,9 @@ To mark the checkbox, change [ ] to [x].
 
 #### Hard
 
-1. [ ] [https://www.hackerrank.com/challenges/hamming-distance/problem](https://www.hackerrank.com/challenges/hamming-distance/problem)
-2. [ ] [http://www.spoj.com/problems/BRDGHRD/](http://www.spoj.com/problems/BRDGHRD/)
-3. [ ] [http://www.spoj.com/problems/AGGRCOW/](http://www.spoj.com/problems/AGGRCOW/)
+1. [x] [https://www.hackerrank.com/challenges/hamming-distance/problem](https://www.hackerrank.com/challenges/hamming-distance/problem)
+2. [x] [http://www.spoj.com/problems/BRDGHRD/](http://www.spoj.com/problems/BRDGHRD/)
+3. [x] [http://www.spoj.com/problems/AGGRCOW/](http://www.spoj.com/problems/AGGRCOW/)
 4. [ ] [http://www.spoj.com/problems/SUBXOR/	[trie]](http://www.spoj.com/problems/SUBXOR/)
 5. [ ] [http://codeforces.com/contest/538/problem/F](http://codeforces.com/contest/538/problem/F)
 6. [ ] [https://www.hackerrank.com/challenges/board-cutting/problem](https://www.hackerrank.com/challenges/board-cutting/problem)
