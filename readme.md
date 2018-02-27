@@ -24,6 +24,15 @@ If you’ve decided to join, following are the steps you need to go through:
 6. Encourage at least 5 of your friends to do the same.
 7. Raise an issue and/or a pull request if you want something to be improved and/or to add a question.
 
+### Steps to follow to push changes
+
+1. fork this repo
+2. clone your forked repo, not this repo.
+3. create a new branch (branch name should be same as your username on github).
+4. commit your changes on your branch, nothing on master branch.
+5. push it to your forked repo.
+6. Send a merge request
+
 ## Prerequisites
 
 - Basic git knowledge. You can learn it from [here](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
