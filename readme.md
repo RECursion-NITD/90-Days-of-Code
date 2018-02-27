@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 
-Number of medium questions solved: 0 0
-Number of hard questions solved: 0 0
-Number of total questions solved: 0 1
+Number of easy questions solved: X Y
+Number of medium questions solved: X Y
+Number of hard questions solved: X Y
+Number of total questions solved: X Y
 
 Change X and Y only according to your progress.**
 ```
@@ -96,7 +96,7 @@ To mark the checkbox, change [ ] to [x].
 6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [x] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
+9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
 11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
