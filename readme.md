@@ -72,10 +72,10 @@ Change X and Y only according to your progress.**
 
 ```
 For example - if you solved 1 easy question and 2 hard questions today
- 	Number of easy questions solved: 0 1
+ 	Number of easy questions solved: 1 2
 	Number of medium questions solved: 0 0
-	Number of hard questions solved: 0 2
-	Number of total questions solved: 0 3
+	Number of hard questions solved: 0 0
+	Number of total questions solved: 1 2
 ```
 
 **Please note that any misinformation will decrease your score by 100.**
@@ -89,7 +89,7 @@ To mark the checkbox, change [ ] to [x].
 #### Easy
 
 1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
 3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
 4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
