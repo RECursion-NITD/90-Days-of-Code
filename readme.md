@@ -77,20 +77,20 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-2. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-3. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+2. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD ####solved
+3. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)####solved
 4. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
-5. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-6. [ ] [https://goo.gl/PTpmny](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/)
-7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
+5. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)####solved
+6. [ ] [https://goo.gl/PTpmny](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1/)####solved
+7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)####solved
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
-10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
-11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
+9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)####solved
+10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)####solved
+11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)####solved
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
-13. [ ] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
-14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
-15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
+13. [ ] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)####solved
+14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)####solved
+15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)####solved
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
 17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
