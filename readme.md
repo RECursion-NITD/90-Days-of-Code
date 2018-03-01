@@ -62,20 +62,20 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 1
+Number of easy questions solved: 1 2
 Number of medium questions solved: 0 0
 Number of hard questions solved: 0 0
-Number of total questions solved: 0 1
+Number of total questions solved: 1 2
 
 Change X and Y only according to your progress.**
 ```
 
 ```
 For example - if you solved 1 easy question and 2 hard questions today
- 	Number of easy questions solved: 1 2
+ 	Number of easy questions solved: 0 1
 	Number of medium questions solved: 0 0
 	Number of hard questions solved: 0 0
-	Number of total questions solved: 1 2
+	Number of total questions solved: 0 1
 ```
 
 **Please note that any misinformation will decrease your score by 100.**
