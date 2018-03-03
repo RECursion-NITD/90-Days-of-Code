@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: X Y
-Number of medium questions solved: X Y
-Number of hard questions solved: X Y
-Number of total questions solved: X Y
+Number of easy questions solved: 0 9
+Number of medium questions solved: 0 1
+Number of hard questions solved: 0 0
+Number of total questions solved: 0 10
 
 Change X and Y only according to your progress.**
 ```
@@ -88,15 +88,15 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-1. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
-3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
-4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
+2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+3. [x] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
+4. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
-6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
+6. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+7. [x] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
+9. [x] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
 11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
@@ -106,13 +106,13 @@ To mark the checkbox, change [ ] to [x].
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
 17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
-19. [ ] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
+19. [x] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
 20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
 24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
-25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
+25. [x] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
 26. [ ] [https://goo.gl/JHSdm1](https://goo.gl/JHSdm1)
 27. [ ] [https://goo.gl/viMSCX](https://goo.gl/viMSCX)
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
@@ -205,7 +205,7 @@ To mark the checkbox, change [ ] to [x].
 58. [ ] [https://www.hackerrank.com/challenges/counter-game/problem](https://www.hackerrank.com/challenges/counter-game/problem)
 59. [ ] [https://www.hackerrank.com/challenges/and-product/problem](https://www.hackerrank.com/challenges/and-product/problem)
 60. [ ] [https://goo.gl/gngBzX](https://goo.gl/gngBzX)
-61. [ ] [http://www.spoj.com/problems/BISHOPS/](http://www.spoj.com/problems/BISHOPS/)
+61. [x] [http://www.spoj.com/problems/BISHOPS/](http://www.spoj.com/problems/BISHOPS/)
 62. [ ] [http://www.spoj.com/problems/ADAFRIEN/](http://www.spoj.com/problems/ADAFRIEN/)
 63. [ ] [http://www.spoj.com/problems/POTHOLE/](http://www.spoj.com/problems/POTHOLE/)
 64. [ ] [https://www.hackerrank.com/challenges/task-scheduling/problem](https://www.hackerrank.com/challenges/task-scheduling/problem)
