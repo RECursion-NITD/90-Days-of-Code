@@ -51,13 +51,13 @@ Y = data after current push
 
 **Change the following block only**
 
-Number of easy questions solved: 12 13
+Number of easy questions solved: 13 15
 
 Number of medium questions solved: 0 6
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 18 19
+Number of total questions solved: 19 21
 
 Change X and Y only according to your progress.**
 
@@ -117,7 +117,7 @@ To mark the checkbox, change [ ] to [x].
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
-39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
+39. [X] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
 41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [X] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
@@ -127,7 +127,7 @@ To mark the checkbox, change [ ] to [x].
 46. [ ] [https://goo.gl/S69rSA](https://goo.gl/S69rSA)
 47. [ ] [https://goo.gl/xMWucx](https://goo.gl/xMWucx)
 48. [ ] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
-49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
+49. [X] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
 51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
 52. [X] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
