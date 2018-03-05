@@ -53,11 +53,11 @@ Y = data after current push
 
 Number of easy questions solved: 15 16
 
-Number of medium questions solved: 0 6
+Number of medium questions solved: 6 7
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 21 22
+Number of total questions solved: 22 23
 
 Change X and Y only according to your progress.**
 
@@ -176,7 +176,7 @@ To mark the checkbox, change [ ] to [x].
 38. [ ] [http://codeforces.com/problemset/problem/633/C](http://codeforces.com/problemset/problem/633/C)
 39. [ ] [https://goo.gl/GcBqqy](https://goo.gl/GcBqqy)
 40. [ ] [https://goo.gl/poJyjN](https://goo.gl/poJyjN)
-41. [ ] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
+41. [X] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
 42. [ ] [http://codeforces.com/problemset/problem/777/D](http://codeforces.com/problemset/problem/777/D)
 43. [ ] [http://www.spoj.com/problems/MIXTURES/](http://www.spoj.com/problems/MIXTURES/)
 44. [ ] [https://www.hackerrank.com/challenges/whats-next/problem](https://www.hackerrank.com/challenges/whats-next/problem)
