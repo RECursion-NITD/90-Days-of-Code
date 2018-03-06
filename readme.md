@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 5 7
+Number of easy questions solved: 7 8
 Number of medium questions solved: 0 0
 Number of hard questions solved: 0 0
-Number of total questions solved: 5 7
+Number of total questions solved: 7 8
 
 Change X and Y only according to your progress.**
 ```
@@ -104,7 +104,7 @@ To mark the checkbox, change [ ] to [x].
 14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
-17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+17. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [ ] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
 20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
