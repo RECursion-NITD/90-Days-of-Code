@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 13 18
+Number of easy questions solved: 18 24
 Number of medium questions solved: 1 2
 Number of hard questions solved: 0 0
-Number of total questions solved: 15 20
+Number of total questions solved: 20 26
 
 Change X and Y only according to your progress.**
 ```
@@ -118,7 +118,7 @@ To mark the checkbox, change [ ] to [x].
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
 29. [ ] [http://www.spoj.com/problems/BLHETA/](http://www.spoj.com/problems/BLHETA/)
 30. [ ] [https://goo.gl/TGfXMv](https://goo.gl/TGfXMv)
-31. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+31. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [x] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
@@ -127,18 +127,18 @@ To mark the checkbox, change [ ] to [x].
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
-40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
+40. [x] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
 41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [x] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
 43. [x] [https://goo.gl/fvbDS5](https://goo.gl/fvbDS5)
-44. [ ] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
+44. [x] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
 45. [ ] [http://www.spoj.com/problems/SUMITR/](http://www.spoj.com/problems/SUMITR/)
 46. [ ] [https://goo.gl/S69rSA](https://goo.gl/S69rSA)
 47. [ ] [https://goo.gl/xMWucx](https://goo.gl/xMWucx)
 48. [ ] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
-49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
-50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
-51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
+49. [x] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
+50. [x] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
+51. [x] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
 52. [ ] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 53. [ ] [http://www.spoj.com/problems/ADAJOBS/](http://www.spoj.com/problems/ADAJOBS/)
 
