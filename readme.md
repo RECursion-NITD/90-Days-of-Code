@@ -53,11 +53,11 @@ Y = data after current push
 
 Number of easy questions solved: 15 16
 
-Number of medium questions solved: 6 7
+Number of medium questions solved: 7 8
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 22 23
+Number of total questions solved: 23 24
 
 Change X and Y only according to your progress.**
 
@@ -144,7 +144,7 @@ To mark the checkbox, change [ ] to [x].
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
 7. [ ] [http://codeforces.com/problemset/problem/777/B](http://codeforces.com/problemset/problem/777/B)
 8. [ ] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
-9. [ ] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
+9. [X] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
 10. [ ] [https://www.codechef.com/problems/TRAL](https://www.codechef.com/problems/TRAL)
 11. [ ] [http://www.spoj.com/problems/SDITSAVL/	[AVL tree]](http://www.spoj.com/problems/SDITSAVL/)
 12. [ ] [http://codeforces.com/problemset/problem/439/D](http://codeforces.com/problemset/problem/439/D)
