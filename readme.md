@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 7 8
+Number of easy questions solved: 8 9
 Number of medium questions solved: 0 1
 Number of hard questions solved: 0 0
-Number of total questions solved: 8 9
+Number of total questions solved: 9 10
 
 Change X and Y only according to your progress.**
 ```
@@ -139,7 +139,7 @@ To mark the checkbox, change [ ] to [x].
 49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
 51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
-52. [ ] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
+52. [x] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 53. [ ] [http://www.spoj.com/problems/ADAJOBS/](http://www.spoj.com/problems/ADAJOBS/)
 
 
