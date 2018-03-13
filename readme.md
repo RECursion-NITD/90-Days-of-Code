@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 8 9
+Number of easy questions solved: 9 10
 Number of medium questions solved: 0 1
 Number of hard questions solved: 0 0
-Number of total questions solved: 9 10
+Number of total questions solved: 10 11
 
 Change X and Y only according to your progress.**
 ```
@@ -109,7 +109,7 @@ To mark the checkbox, change [ ] to [x].
 19. [ ] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
 20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
-22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
+22. [x] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
 24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
 25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
