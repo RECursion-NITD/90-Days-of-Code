@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 9 10
+Number of easy questions solved: 10 12
 Number of medium questions solved: 0 1
 Number of hard questions solved: 0 0
-Number of total questions solved: 10 11
+Number of total questions solved: 11 13
 
 Change X and Y only according to your progress.**
 ```
@@ -118,7 +118,7 @@ To mark the checkbox, change [ ] to [x].
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
 29. [ ] [http://www.spoj.com/problems/BLHETA/](http://www.spoj.com/problems/BLHETA/)
 30. [ ] [https://goo.gl/TGfXMv](https://goo.gl/TGfXMv)
-31. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+31. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [ ] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
@@ -126,7 +126,7 @@ To mark the checkbox, change [ ] to [x].
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
-39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
+39. [x] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
 41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [ ] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
