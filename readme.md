@@ -53,11 +53,11 @@ Y = data after current push
 
 Number of easy questions solved: 16 17
 
-Number of medium questions solved: 8 9
+Number of medium questions solved: 9 10
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 24 26
+Number of total questions solved: 26 27
 
 Change X and Y only according to your progress.**
 
@@ -138,7 +138,7 @@ To mark the checkbox, change [ ] to [x].
 
 1. [ ] [http://www.spoj.com/problems/RENT/](http://www.spoj.com/problems/RENT/)
 2. [ ] [https://www.codechef.com/DCL1501/problems/DCL2015E/	[2D BIT]](https://www.codechef.com/DCL1501/problems/DCL2015E/)
-3. [ ] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
+3. [X] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
 4. [X] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
 5. [ ] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
