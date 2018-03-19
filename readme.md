@@ -53,7 +53,7 @@ Y = data after current push
 
 Number of easy questions solved: 15 16
 
-Number of medium questions solved: 7 8
+Number of medium questions solved: 8 9
 
 Number of hard questions solved: 0 0
 
@@ -160,7 +160,7 @@ To mark the checkbox, change [ ] to [x].
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
 24. [X] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
-25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
+25. [X] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
 28. [ ] [http://codeforces.com/problemset/problem/431/E](http://codeforces.com/problemset/problem/431/E)
