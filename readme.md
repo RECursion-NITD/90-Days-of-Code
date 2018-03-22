@@ -51,13 +51,13 @@ Y = data after current push
 
 **Change the following block only**
 
-Number of easy questions solved: 16 17
+Number of easy questions solved: 17 18
 
 Number of medium questions solved: 9 10
 
 Number of hard questions solved: 0 0
 
-Number of total questions solved: 26 27
+Number of total questions solved: 27 28
 
 Change X and Y only according to your progress.**
 
@@ -98,7 +98,7 @@ To mark the checkbox, change [ ] to [x].
 17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [X] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
-20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
+20. [X] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
