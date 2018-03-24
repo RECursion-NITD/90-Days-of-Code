@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 18 24
-Number of medium questions solved: 1 2
+Number of easy questions solved: 24 25
+Number of medium questions solved: 2 6
 Number of hard questions solved: 0 0
-Number of total questions solved: 20 26
+Number of total questions solved: 26 31
 
 Change X and Y only according to your progress.**
 ```
@@ -103,7 +103,7 @@ To mark the checkbox, change [ ] to [x].
 13. [x] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
 14. [x] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
-16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
+16. [x] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
 17. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [x] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
@@ -148,8 +148,8 @@ To mark the checkbox, change [ ] to [x].
 1. [ ] [http://www.spoj.com/problems/RENT/](http://www.spoj.com/problems/RENT/)
 2. [ ] [https://www.codechef.com/DCL1501/problems/DCL2015E/	[2D BIT]](https://www.codechef.com/DCL1501/problems/DCL2015E/)
 3. [ ] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
-4. [ ] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
-5. [ ] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
+4. [x] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
+5. [x] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
 7. [ ] [http://codeforces.com/problemset/problem/777/B](http://codeforces.com/problemset/problem/777/B)
 8. [ ] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
@@ -162,7 +162,7 @@ To mark the checkbox, change [ ] to [x].
 15. [ ] [https://goo.gl/jNsdWQ](https://goo.gl/jNsdWQ)
 16. [ ] [https://www.hackerrank.com/challenges/morgan-and-a-string/problem](https://www.hackerrank.com/challenges/morgan-and-a-string/problem)
 17. [ ] [https://goo.gl/1tU579	[sqrt decompostion]](https://goo.gl/1tU579)
-18. [ ] [http://www.spoj.com/problems/PT07Z/](http://www.spoj.com/problems/PT07Z/)
+18. [x] [http://www.spoj.com/problems/PT07Z/](http://www.spoj.com/problems/PT07Z/)
 19. [ ] [http://www.spoj.com/problems/ADABRANC/](http://www.spoj.com/problems/ADABRANC/)
 20. [ ] [https://www.hackerrank.com/challenges/richie-rich/problem](https://www.hackerrank.com/challenges/richie-rich/problem)
 21. [ ] [https://www.hackerrank.com/challenges/pylons/problem](https://www.hackerrank.com/challenges/pylons/problem)
@@ -192,7 +192,7 @@ To mark the checkbox, change [ ] to [x].
 45. [ ] [http://www.spoj.com/problems/SBANK/](http://www.spoj.com/problems/SBANK/)
 46. [ ] [https://goo.gl/FxvqiP](https://goo.gl/FxvqiP)
 47. [ ] [https://goo.gl/s1gkhH](https://goo.gl/s1gkhH)
-48. [ ] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
+48. [x] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
 51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
