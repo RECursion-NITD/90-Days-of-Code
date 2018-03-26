@@ -9,14 +9,15 @@ Your main goal should be learning, not scoring.```**
 
 ## Ranklist
 
-1. raghav7997		```146 points```
-2. lostground97		```144 points```
-3. Ruchi-nitd		 ```78 points(1 streak of 5 days)```
-4. piyu007			 ```43 points```
-5. deblina-talukdar   ```8 points```
-6. akjais99			  ```8 points```
+1. raghav7997		```204 points (+58)```
+2. lostground97		```193 points (+49)```
+3. Ruchi-nitd		 ```118 points (+40)```
+3. ashutosh97		 ```47 points (+47)```
+4. piyu007			 ```43 points (+0)```
+5. deblina-talukdar   ```8 points (+0)```
+6. akjais99			  ```8 points (+0)```
 
-Next ranklist with username and score will be updated here on 20th March 2018.
+Next ranklist with username and score will be updated here on 3rd April 2018.
 
 
 ## Getting Started
