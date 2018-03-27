@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 24 25
-Number of medium questions solved: 2 6
+Number of easy questions solved: 25 27
+Number of medium questions solved: 6 10
 Number of hard questions solved: 0 0
-Number of total questions solved: 26 31
+Number of total questions solved: 31 37
 
 Change X and Y only according to your progress.**
 ```
@@ -107,7 +107,7 @@ To mark the checkbox, change [ ] to [x].
 17. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [x] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
-20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
+20. [x] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
@@ -122,7 +122,7 @@ To mark the checkbox, change [ ] to [x].
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [x] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
-35. [ ] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
+35. [x] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
 36. [x] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
@@ -153,7 +153,7 @@ To mark the checkbox, change [ ] to [x].
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
 7. [ ] [http://codeforces.com/problemset/problem/777/B](http://codeforces.com/problemset/problem/777/B)
 8. [ ] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
-9. [ ] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
+9. [x] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
 10. [ ] [https://www.codechef.com/problems/TRAL](https://www.codechef.com/problems/TRAL)
 11. [ ] [http://www.spoj.com/problems/SDITSAVL/	[AVL tree]](http://www.spoj.com/problems/SDITSAVL/)
 12. [ ] [http://codeforces.com/problemset/problem/439/D](http://codeforces.com/problemset/problem/439/D)
@@ -189,13 +189,13 @@ To mark the checkbox, change [ ] to [x].
 42. [ ] [http://codeforces.com/problemset/problem/777/D](http://codeforces.com/problemset/problem/777/D)
 43. [ ] [http://www.spoj.com/problems/MIXTURES/](http://www.spoj.com/problems/MIXTURES/)
 44. [ ] [https://www.hackerrank.com/challenges/whats-next/problem](https://www.hackerrank.com/challenges/whats-next/problem)
-45. [ ] [http://www.spoj.com/problems/SBANK/](http://www.spoj.com/problems/SBANK/)
+45. [x] [http://www.spoj.com/problems/SBANK/](http://www.spoj.com/problems/SBANK/)
 46. [ ] [https://goo.gl/FxvqiP](https://goo.gl/FxvqiP)
 47. [ ] [https://goo.gl/s1gkhH](https://goo.gl/s1gkhH)
 48. [x] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
-51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
+51. [x] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
 52. [x] [http://www.spoj.com/problems/GSS3/](http://www.spoj.com/problems/GSS3/)
 53. [ ] [http://codeforces.com/problemset/problem/340/D](http://codeforces.com/problemset/problem/340/D)
 54. [ ] [http://www.spoj.com/problems/RMID2/	[heaps]](http://www.spoj.com/problems/RMID2/)
@@ -206,7 +206,7 @@ To mark the checkbox, change [ ] to [x].
 59. [ ] [https://www.hackerrank.com/challenges/and-product/problem](https://www.hackerrank.com/challenges/and-product/problem)
 60. [ ] [https://goo.gl/gngBzX](https://goo.gl/gngBzX)
 61. [x] [http://www.spoj.com/problems/BISHOPS/](http://www.spoj.com/problems/BISHOPS/)
-62. [ ] [http://www.spoj.com/problems/ADAFRIEN/](http://www.spoj.com/problems/ADAFRIEN/)
+62. [x] [http://www.spoj.com/problems/ADAFRIEN/](http://www.spoj.com/problems/ADAFRIEN/)
 63. [ ] [http://www.spoj.com/problems/POTHOLE/](http://www.spoj.com/problems/POTHOLE/)
 64. [ ] [https://www.hackerrank.com/challenges/task-scheduling/problem](https://www.hackerrank.com/challenges/task-scheduling/problem)
 65. [ ] [http://www.spoj.com/problems/MKTHNUM/](http://www.spoj.com/problems/MKTHNUM/)
