@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 13 14
+Number of easy questions solved: 14 15
 Number of medium questions solved: 1 2
 Number of hard questions solved: 0 0
-Number of total questions solved: 15 16
+Number of total questions solved: 16 17
 
 Change X and Y only according to your progress.**
 ```
@@ -121,7 +121,7 @@ To mark the checkbox, change [ ] to [x].
 31. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [ ] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
-34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
+34. [x] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
 35. [ ] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
