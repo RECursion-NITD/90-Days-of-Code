@@ -72,10 +72,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: X Y
-Number of medium questions solved: X Y
-Number of hard questions solved: X Y
-Number of total questions solved: X Y
+Number of easy questions solved: 0 8
+Number of medium questions solved: 0 1
+Number of hard questions solved: 0 0
+Number of total questions solved: 0 9
 
 Change X and Y only according to your progress.**
 ```
@@ -98,19 +98,19 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-1. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
-3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
-4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
-6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
+2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+3. [x] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
+4. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+5. [x] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
+6. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
+9. [x] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
 11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
-13. [ ] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
+13. [x] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
 14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
@@ -206,7 +206,7 @@ To mark the checkbox, change [ ] to [x].
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
 51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
-52. [ ] [http://www.spoj.com/problems/GSS3/](http://www.spoj.com/problems/GSS3/)
+52. [x] [http://www.spoj.com/problems/GSS3/](http://www.spoj.com/problems/GSS3/)
 53. [ ] [http://codeforces.com/problemset/problem/340/D](http://codeforces.com/problemset/problem/340/D)
 54. [ ] [http://www.spoj.com/problems/RMID2/	[heaps]](http://www.spoj.com/problems/RMID2/)
 55. [ ] [http://www.spoj.com/problems/DCEPC206/](http://www.spoj.com/problems/DCEPC206/)
