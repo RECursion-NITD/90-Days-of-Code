@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 8
+Number of easy questions solved: 0 12
 Number of medium questions solved: 0 0
 Number of hard questions solved: 0 0
-Number of total questions solved: 0 8
+Number of total questions solved: 0 12
 
 Change X and Y only according to your progress.**
 ```
@@ -101,13 +101,13 @@ To mark the checkbox, change [ ] to [x].
 11. [x] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
 13. [x] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
-14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
+14. [x] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
-17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+17. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [ ] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
-20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
+20. [x] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
@@ -118,7 +118,7 @@ To mark the checkbox, change [ ] to [x].
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
 29. [ ] [http://www.spoj.com/problems/BLHETA/](http://www.spoj.com/problems/BLHETA/)
 30. [ ] [https://goo.gl/TGfXMv](https://goo.gl/TGfXMv)
-31. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+31. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [ ] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [ ] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
