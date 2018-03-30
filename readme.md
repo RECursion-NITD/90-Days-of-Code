@@ -63,9 +63,9 @@ Y = data after current push
 **Change the following block only**
 ```
 Number of easy questions solved: 14 15
-Number of medium questions solved: 2 3
+Number of medium questions solved: 3 4
 Number of hard questions solved: 0 0
-Number of total questions solved: 17 18
+Number of total questions solved: 18 19
 
 Change X and Y only according to your progress.**
 ```
@@ -152,7 +152,7 @@ To mark the checkbox, change [ ] to [x].
 5. [ ] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
 7. [x] [http://codeforces.com/problemset/problem/777/B](http://codeforces.com/problemset/problem/777/B)
-8. [ ] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
+8. [x] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
 9. [ ] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
 10. [ ] [https://www.codechef.com/problems/TRAL](https://www.codechef.com/problems/TRAL)
 11. [ ] [http://www.spoj.com/problems/SDITSAVL/	[AVL tree]](http://www.spoj.com/problems/SDITSAVL/)
