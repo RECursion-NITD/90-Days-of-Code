@@ -63,9 +63,9 @@ Y = data after current push
 **Change the following block only**
 ```
 Number of easy questions solved: 14 15
-Number of medium questions solved: 1 2
+Number of medium questions solved: 2 3
 Number of hard questions solved: 0 0
-Number of total questions solved: 16 17
+Number of total questions solved: 17 18
 
 Change X and Y only according to your progress.**
 ```
@@ -169,7 +169,7 @@ To mark the checkbox, change [ ] to [x].
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
 24. [ ] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
-25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
+25. [x] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
 28. [ ] [http://codeforces.com/problemset/problem/431/E](http://codeforces.com/problemset/problem/431/E)
