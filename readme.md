@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 14 15
+Number of easy questions solved: 15 16
 Number of medium questions solved: 4 5
 Number of hard questions solved: 0 0
-Number of total questions solved: 19 20
+Number of total questions solved: 20 21
 
 Change X and Y only according to your progress.**
 ```
@@ -128,7 +128,7 @@ To mark the checkbox, change [ ] to [x].
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [x] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
-41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
+41. [x] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [ ] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
 43. [ ] [https://goo.gl/fvbDS5](https://goo.gl/fvbDS5)
 44. [ ] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
