@@ -62,10 +62,10 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 25 27
-Number of medium questions solved: 6 10
+Number of easy questions solved: 27 28
+Number of medium questions solved: 10 13
 Number of hard questions solved: 0 0
-Number of total questions solved: 31 37
+Number of total questions solved: 37 41
 
 Change X and Y only according to your progress.**
 ```
@@ -135,7 +135,7 @@ To mark the checkbox, change [ ] to [x].
 45. [ ] [http://www.spoj.com/problems/SUMITR/](http://www.spoj.com/problems/SUMITR/)
 46. [ ] [https://goo.gl/S69rSA](https://goo.gl/S69rSA)
 47. [ ] [https://goo.gl/xMWucx](https://goo.gl/xMWucx)
-48. [ ] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
+48. [x] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
 49. [x] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [x] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
 51. [x] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
@@ -168,14 +168,14 @@ To mark the checkbox, change [ ] to [x].
 21. [ ] [https://www.hackerrank.com/challenges/pylons/problem](https://www.hackerrank.com/challenges/pylons/problem)
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
-24. [ ] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
+24. [x] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
 25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
 28. [ ] [http://codeforces.com/problemset/problem/431/E](http://codeforces.com/problemset/problem/431/E)
 29. [ ] [http://codeforces.com/problemset/problem/898/C](http://codeforces.com/problemset/problem/898/C)
 30. [ ] [https://www.codechef.com/problems/WTHINGS](https://www.codechef.com/problems/WTHINGS)
-31. [ ] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
+31. [x] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
 32. [ ] [https://goo.gl/DWyiui	[persistent segTree]](https://goo.gl/DWyiui)
 33. [ ] [https://goo.gl/5MwpVj	[trie]](https://goo.gl/5MwpVj)
 34. [ ] [http://www.spoj.com/problems/LABYR1/](http://www.spoj.com/problems/LABYR1/)
@@ -201,7 +201,7 @@ To mark the checkbox, change [ ] to [x].
 54. [ ] [http://www.spoj.com/problems/RMID2/	[heaps]](http://www.spoj.com/problems/RMID2/)
 55. [ ] [http://www.spoj.com/problems/DCEPC206/](http://www.spoj.com/problems/DCEPC206/)
 56. [ ] [http://www.spoj.com/problems/BRIDGE/](http://www.spoj.com/problems/BRIDGE/)
-57. [ ] [http://www.spoj.com/problems/KGSS/](http://www.spoj.com/problems/KGSS/)
+57. [x] [http://www.spoj.com/problems/KGSS/](http://www.spoj.com/problems/KGSS/)
 58. [ ] [https://www.hackerrank.com/challenges/counter-game/problem](https://www.hackerrank.com/challenges/counter-game/problem)
 59. [ ] [https://www.hackerrank.com/challenges/and-product/problem](https://www.hackerrank.com/challenges/and-product/problem)
 60. [ ] [https://goo.gl/gngBzX](https://goo.gl/gngBzX)
