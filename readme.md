@@ -71,14 +71,16 @@ Y = data after current push
 ```
 
 **Change the following block only**
-```
-Number of easy questions solved: X Y
-Number of medium questions solved: X Y
-Number of hard questions solved: X Y
-Number of total questions solved: X Y
+
+Number of easy questions solved: 17 18
+
+Number of medium questions solved: 9 10
+
+Number of hard questions solved: 0 0
+
+Number of total questions solved: 27 28
 
 Change X and Y only according to your progress.**
-```
 
 ```
 For example - if you solved 1 easy question and 2 hard questions today
@@ -98,31 +100,31 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-1. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
-3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
-4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+1. [X] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
+2. [X] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+3. [X] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
+4. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
-6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
+6. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+7. [X] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
-10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
-11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
+9. [X] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
+10. [X] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
+11. [X] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
-13. [ ] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
+13. [X] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
 14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
 17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
-19. [ ] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
-20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
+19. [X] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
+20. [X] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
 24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
-25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
+25. [X] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
 26. [ ] [https://goo.gl/JHSdm1](https://goo.gl/JHSdm1)
 27. [ ] [https://goo.gl/viMSCX](https://goo.gl/viMSCX)
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
@@ -136,20 +138,20 @@ To mark the checkbox, change [ ] to [x].
 36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [ ] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
-39. [ ] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
+39. [X] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
 40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
-41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
-42. [ ] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
+41. [X] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
+42. [X] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
 43. [ ] [https://goo.gl/fvbDS5](https://goo.gl/fvbDS5)
 44. [ ] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
 45. [ ] [http://www.spoj.com/problems/SUMITR/](http://www.spoj.com/problems/SUMITR/)
 46. [ ] [https://goo.gl/S69rSA](https://goo.gl/S69rSA)
 47. [ ] [https://goo.gl/xMWucx](https://goo.gl/xMWucx)
 48. [ ] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
-49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
+49. [X] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
 51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
-52. [ ] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
+52. [X] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 53. [ ] [http://www.spoj.com/problems/ADAJOBS/](http://www.spoj.com/problems/ADAJOBS/)
 
 
@@ -157,35 +159,35 @@ To mark the checkbox, change [ ] to [x].
 
 1. [ ] [http://www.spoj.com/problems/RENT/](http://www.spoj.com/problems/RENT/)
 2. [ ] [https://www.codechef.com/DCL1501/problems/DCL2015E/	[2D BIT]](https://www.codechef.com/DCL1501/problems/DCL2015E/)
-3. [ ] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
-4. [ ] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
+3. [X] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
+4. [X] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
 5. [ ] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
 7. [ ] [http://codeforces.com/problemset/problem/777/B](http://codeforces.com/problemset/problem/777/B)
 8. [ ] [https://www.hackerrank.com/challenges/largest-permutation/problem](https://www.hackerrank.com/challenges/largest-permutation/problem)
-9. [ ] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
+9. [X] [http://www.spoj.com/problems/CODESPTB/](http://www.spoj.com/problems/CODESPTB/)
 10. [ ] [https://www.codechef.com/problems/TRAL](https://www.codechef.com/problems/TRAL)
 11. [ ] [http://www.spoj.com/problems/SDITSAVL/	[AVL tree]](http://www.spoj.com/problems/SDITSAVL/)
 12. [ ] [http://codeforces.com/problemset/problem/439/D](http://codeforces.com/problemset/problem/439/D)
-13. [ ] [http://www.spoj.com/problems/PPATH/](http://www.spoj.com/problems/PPATH/)
+13. [X] [http://www.spoj.com/problems/PPATH/](http://www.spoj.com/problems/PPATH/)
 14. [ ] [http://www.spoj.com/problems/DISUBSTR/	[suffix tree or suffix array]](http://www.spoj.com/problems/DISUBSTR/)
 15. [ ] [https://goo.gl/jNsdWQ](https://goo.gl/jNsdWQ)
 16. [ ] [https://www.hackerrank.com/challenges/morgan-and-a-string/problem](https://www.hackerrank.com/challenges/morgan-and-a-string/problem)
 17. [ ] [https://goo.gl/1tU579	[sqrt decompostion]](https://goo.gl/1tU579)
-18. [ ] [http://www.spoj.com/problems/PT07Z/](http://www.spoj.com/problems/PT07Z/)
+18. [X] [http://www.spoj.com/problems/PT07Z/](http://www.spoj.com/problems/PT07Z/)
 19. [ ] [http://www.spoj.com/problems/ADABRANC/](http://www.spoj.com/problems/ADABRANC/)
 20. [ ] [https://www.hackerrank.com/challenges/richie-rich/problem](https://www.hackerrank.com/challenges/richie-rich/problem)
 21. [ ] [https://www.hackerrank.com/challenges/pylons/problem](https://www.hackerrank.com/challenges/pylons/problem)
 22. [ ] [http://www.spoj.com/problems/MAKETREE/](http://www.spoj.com/problems/MAKETREE/)
 23. [ ] [https://www.codechef.com/problems/RRDAG](https://www.codechef.com/problems/RRDAG)
-24. [ ] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
-25. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
+24. [X] [http://www.spoj.com/problems/BUSYMAN/](http://www.spoj.com/problems/BUSYMAN/)
+25. [X] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 26. [ ] [http://codeforces.com/problemset/problem/106/E](http://codeforces.com/problemset/problem/106/E)
 27. [ ] [http://www.spoj.com/problems/PARTIT/](http://www.spoj.com/problems/PARTIT/)
 28. [ ] [http://codeforces.com/problemset/problem/431/E](http://codeforces.com/problemset/problem/431/E)
 29. [ ] [http://codeforces.com/problemset/problem/898/C](http://codeforces.com/problemset/problem/898/C)
 30. [ ] [https://www.codechef.com/problems/WTHINGS](https://www.codechef.com/problems/WTHINGS)
-31. [ ] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
+31. [X] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
 32. [ ] [https://goo.gl/DWyiui	[persistent segTree]](https://goo.gl/DWyiui)
 33. [ ] [https://goo.gl/5MwpVj	[trie]](https://goo.gl/5MwpVj)
 34. [ ] [http://www.spoj.com/problems/LABYR1/](http://www.spoj.com/problems/LABYR1/)
@@ -195,14 +197,14 @@ To mark the checkbox, change [ ] to [x].
 38. [ ] [http://codeforces.com/problemset/problem/633/C](http://codeforces.com/problemset/problem/633/C)
 39. [ ] [https://goo.gl/GcBqqy](https://goo.gl/GcBqqy)
 40. [ ] [https://goo.gl/poJyjN](https://goo.gl/poJyjN)
-41. [ ] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
+41. [X] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
 42. [ ] [http://codeforces.com/problemset/problem/777/D](http://codeforces.com/problemset/problem/777/D)
 43. [ ] [http://www.spoj.com/problems/MIXTURES/](http://www.spoj.com/problems/MIXTURES/)
 44. [ ] [https://www.hackerrank.com/challenges/whats-next/problem](https://www.hackerrank.com/challenges/whats-next/problem)
 45. [ ] [http://www.spoj.com/problems/SBANK/](http://www.spoj.com/problems/SBANK/)
 46. [ ] [https://goo.gl/FxvqiP](https://goo.gl/FxvqiP)
 47. [ ] [https://goo.gl/s1gkhH](https://goo.gl/s1gkhH)
-48. [ ] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
+48. [X] [http://www.spoj.com/problems/RMQSQ/	[sparse table]](http://www.spoj.com/problems/RMQSQ/)
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
 51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
