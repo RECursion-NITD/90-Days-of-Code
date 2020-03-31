@@ -104,7 +104,7 @@ To mark the checkbox, change [ ] to [x].
 4. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] {not available}[https://goo.gl/PTpmny](https://goo.gl/PTpmny)
 6. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
+7. [X] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
 9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
