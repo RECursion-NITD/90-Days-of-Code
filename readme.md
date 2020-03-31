@@ -99,7 +99,7 @@ To mark the checkbox, change [ ] to [x].
 #### Easy
 
 1. [X] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+2. [X] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
 3. [X] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
 4. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] {not available}[https://goo.gl/PTpmny](https://goo.gl/PTpmny)
