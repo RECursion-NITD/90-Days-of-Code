@@ -1,39 +1,47 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-#define geti(x) int x;cin>>x;
-#define getl(x) long long int x;in>>x;
-#define FOR(i,a,b) for(i=a;i<b;i++)
-int *a;
-int i;
-long long int sol(int l,int r){
-	long long int ans;
-	if (l==r)return a[l];
-	int mid=(l+r)/2;
-	ans=max(sol(l,mid),sol(mid+1,r));
-	long long int ans2=0,ans1=0,ans0=0;
-	FOR(i,mid+1,r+1){
-		ans1+=a[i];
-		ans0=max(ans1,ans0);
+typedef long long int ll;
+ll tree[400005];
+void build_tree(ll a[],ll node,ll start,ll end)
+{
+	if(start==end)
+	tree[node]=a[start];
+	else
+	{
+		ll mid=(start+end)/2;
+		build_tree(a,2*node,start,mid);
+		build_tree(a,2*node+1,mid+1,end);
+		tree[node]=max(max(tree[2*node],tree[2*node+1]),tree[2*node]+tree[2*node+1]);
+    //    cout<<tree[node];
 	}
-	ans1=0;
-	for(i=mid-1;i>=l;i--){
-		ans1+=a[i];
-		ans2=max(ans1,ans2);
-	}
-	return max(ans,ans2+ans0+a[mid]);
 }
-int run(){
-	geti(l)
-	geti(r)
-	cout<<sol(l,r)<<endl;
-	return 0;
+ll maxsum(ll node,ll start,ll end,ll x,ll y)
+{
+    ll p1,p2,mid;
+    if(y<start || x>end)
+    return -15009;
+    else if(x<=start && y>=end)
+    return tree[node];
+    else{
+        mid=(start+end)/2;
+        p1=maxsum(2*node,start,mid,x,y);
+        p2=maxsum(2*node+1,mid+1,end,x,y);
+        return max(max(p1,p2),p1+p2);
+    }
+    
 }
-int main(){
-	geti(n)
-	a=new int[n+5];
-	FOR(i,1,n+1)cin>>a[i];
-	geti(t)
-	while(t--)
-		run();
-	return 0;
+int main()
+{
+ll n,m,x,y,i;
+cin>>n;
+ll a[n+1];
+for(i=1;i<=n;i++)
+cin>>a[i];
+build_tree(a,1,1,n);
+cin>>m;
+while(m--)
+{
+cin>>x>>y;
+cout<<maxsum(1,1,n,x,y)<<endl;
+}
 }
