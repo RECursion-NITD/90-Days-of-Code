@@ -106,7 +106,7 @@ To mark the checkbox, change [ ] to [x].
 6. [X] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 7. [X] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
-9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
+9. [X] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [X] {not available}[https://goo.gl/shR8UK](https://goo.gl/shR8UK)
 11. [ ] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
