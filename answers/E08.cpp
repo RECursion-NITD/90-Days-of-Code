@@ -14,15 +14,17 @@ int run(int *a,int l,int r){
 	int mid=(l+r)/2;
 	int ans=max(run(a,l,mid-1),run(a,mid+1,r));
 	int midans=1;
-	FOR(i,mid+1,r){
+	FOR(i,mid+1,r+1){
 		if(a[mid]==a[i])midans++;
 	}
 	for(i=mid-1;i>=l;i--){
-		if(a[mid]==a[i])midans--;
+		if(a[mid]==a[i])midans++;
 	}
 	return max(ans,midans);
 }
 int main(){
+	ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
 	cin>>n;
 	int l,r,q;
 	while(n){
@@ -31,7 +33,7 @@ int main(){
 		FOR(i,0,n)cin>>a[i];
 		while(q--){
 			cin>>l>>r;
-			cout<<run(a,l,r)<<endl;
+			cout<<run(a,l-1,r-1)<<"\n";
 		}
 		cin>>n;
 	}
