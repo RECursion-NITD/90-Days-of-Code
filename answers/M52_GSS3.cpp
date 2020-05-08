@@ -35,16 +35,8 @@ void buildSegTree(int i,int l,int r){
         segTree[i]=join(segTree[2*i],segTree[2*i+1]);
     }
 }
-tree query_old(int treeIndex,int treeLeft,int treeRight,int l,int r){
-    if(treeLeft>treeRight)return zero;
-    if(treeLeft==treeRight)return segTree[treeIndex];
-    int treeMid=(treeLeft+treeRight)/2;
-    if(treeMid<l)return query_old(2*treeIndex+1,treeMid+1,treeRight,l,r);
-    if(treeMid>=r)return query_old(2*treeIndex,treeLeft,treeMid,l,r);
-    return join(query_old(2*treeIndex,treeLeft,treeMid,l,r),query_old(2*treeIndex+1,treeMid+1,treeRight,l,r));
-}
 
-tree query_new(int node,int start,int end,int l,int r)
+tree query(int node,int start,int end,int l,int r)
 {
     if(r<start || l>end)
     {
@@ -60,10 +52,24 @@ zero.maxSuffixSum=-20000;
         return segTree[node];
     }
     int mid=(start+end)/2;
-    tree p1=query_new(2*node,start,mid,l,r);
-    tree p2=query_new(2*node+1,mid+1,end,l,r);
+    tree p1=query(2*node,start,mid,l,r);
+    tree p2=query(2*node+1,mid+1,end,l,r);
     tree temp=join(p1,p2);
     return temp;
+}
+void update(int node,int start,int end,int leaf,int value){
+    if(start==end){
+        segTree[node].sum=segTree[node].maxSum=segTree[node].maxPrefixSum=segTree[node].maxSuffixSum=value;
+        return;
+    }
+    int mid=(start+end)/2;
+    if(leaf<=mid){
+        update(node*2,start,mid,leaf,value);
+    }
+    else{
+        update(2*node+1,mid+1,end,leaf,value);
+    }
+    segTree[node]=join(segTree[2*node],segTree[2*node+1]);
 }
 int main(){
     
@@ -79,9 +85,13 @@ int main(){
     int q;
     cin>>q;
     int l,r;
+    int type;
     while(q--){
-        cin>>l>>r;
-        cout<<query_new(1,0,n-1,l-1,r-1).maxSum<<endl;
+        cin>>type>>l>>r;
+        if(type)
+            cout<<query(1,0,n-1,l-1,r-1).maxSum<<endl;
+        else
+            update(1,0,n-1,l-1,r);
     }
     return 0;
 }
