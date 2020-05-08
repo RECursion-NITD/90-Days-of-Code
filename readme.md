@@ -206,7 +206,7 @@ To mark the checkbox, change [ ] to [x].
 49. [ ] [http://codeforces.com/problemset/problem/596/D](http://codeforces.com/problemset/problem/596/D)
 50. [ ] [https://goo.gl/oXTucZ](https://goo.gl/oXTucZ)
 51. [ ] [http://www.spoj.com/problems/INVCNT/](http://www.spoj.com/problems/INVCNT/)
-52. [ ] [http://www.spoj.com/problems/GSS3/](http://www.spoj.com/problems/GSS3/)
+52. [X] [http://www.spoj.com/problems/GSS3/](http://www.spoj.com/problems/GSS3/)
 53. [ ] [http://codeforces.com/problemset/problem/340/D](http://codeforces.com/problemset/problem/340/D)
 54. [ ] [http://www.spoj.com/problems/RMID2/	[heaps]](http://www.spoj.com/problems/RMID2/)
 55. [ ] [http://www.spoj.com/problems/DCEPC206/](http://www.spoj.com/problems/DCEPC206/)
